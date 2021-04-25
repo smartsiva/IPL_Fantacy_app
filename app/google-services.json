@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119365013758",
+    "project_id": "fblogin-2020",
+    "storage_bucket": "fblogin-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119365013758:android:ede44619ee771e6a2755af",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119365013758-e98uf40p78bccg7gou8m26osck50old0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8UxSN8hgtr4NF98y0xC3YEnNXt4KZP6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119365013758-e98uf40p78bccg7gou8m26osck50old0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
